@@ -9,3 +9,6 @@ Move to the folder-main to test algorithms on demos and reproduce our results.
 This figure aggregates the main experimental results in a single page. The top row shows CPU time comparisons under different generative models, and the bottom row summarizes the tabular metrics from the paper.
 
 ![Results overview](Results/overview/results_overview.png)
+
+## Supplementary Proof
+Move to the folder Supp_Proof for additional proof which was not shown in the paper context.
